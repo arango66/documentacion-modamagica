@@ -1,0 +1,28 @@
+{
+  "id": "backend/productos",
+  "title": "Productos",
+  "description": "Archivo: controllers/Productos/productos.controller.js",
+  "source": "@site/docs/backend/productos.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/productos",
+  "permalink": "/ModaMagica/backend/productos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "productos",
+    "title": "Productos",
+    "sidebar_position": 5
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Usuarios",
+    "permalink": "/ModaMagica/backend/usuarios"
+  },
+  "next": {
+    "title": "Categorías",
+    "permalink": "/ModaMagica/backend/categorias"
+  }
+}

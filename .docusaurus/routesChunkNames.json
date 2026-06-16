@@ -1,0 +1,126 @@
+{
+  "/ModaMagica/__docusaurus/debug-f5e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---moda-magica-docusaurus-debugb-38-638"
+    }
+  },
+  "/ModaMagica/__docusaurus/debug/config-271": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---moda-magica-docusaurus-debugb-38-638"
+    }
+  },
+  "/ModaMagica/__docusaurus/debug/content-e18": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---moda-magica-docusaurus-debugb-38-638"
+    },
+    "__props": "__props---moda-magica-docusaurus-debug-content-34-a-563"
+  },
+  "/ModaMagica/__docusaurus/debug/globalData-a7f": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---moda-magica-docusaurus-debugb-38-638"
+    }
+  },
+  "/ModaMagica/__docusaurus/debug/metadata-e8f": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---moda-magica-docusaurus-debugb-38-638"
+    }
+  },
+  "/ModaMagica/__docusaurus/debug/registry-e54": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---moda-magica-docusaurus-debugb-38-638"
+    }
+  },
+  "/ModaMagica/__docusaurus/debug/routes-417": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---moda-magica-docusaurus-debugb-38-638"
+    }
+  },
+  "/ModaMagica/-2e0": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---moda-magica-aba-fdd"
+    }
+  },
+  "/ModaMagica/-2b1": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---moda-magica-e-44-06c"
+  },
+  "/ModaMagica/-e21": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ModaMagica/backend/autenticacion-9a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-backend-autenticacion-416-6dc"
+  },
+  "/ModaMagica/backend/categorias-128": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-backend-categoriasa-38-05d"
+  },
+  "/ModaMagica/backend/descuentos-0ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-backend-descuentos-4-ed-ab3"
+  },
+  "/ModaMagica/backend/overview-631": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-backend-overview-629-ac8"
+  },
+  "/ModaMagica/backend/pedidos-cbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-backend-pedidos-350-01f"
+  },
+  "/ModaMagica/backend/productos-74a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-backend-productos-449-0b7"
+  },
+  "/ModaMagica/backend/usuarios-280": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-backend-usuarios-388-852"
+  },
+  "/ModaMagica/base-datos/-2c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-base-datos-472-a94"
+  },
+  "/ModaMagica/despliegue/-a59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-despliegue-eb-8-4c2"
+  },
+  "/ModaMagica/frontend/-815": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-frontend-139-3a4"
+  },
+  "/ModaMagica/frontend/admin-6dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-frontend-adminf-5-f-dd3"
+  },
+  "/ModaMagica/frontend/layout-665": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-frontend-layout-104-7a8"
+  },
+  "/ModaMagica/frontend/overview-8b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-frontend-overviewde-8-87e"
+  },
+  "/ModaMagica/frontend/tienda-15d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-frontend-tiendad-43-fe7"
+  },
+  "/ModaMagica/introduccion/estructura-d32": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-introduccion-estructura-86-b-789"
+  },
+  "/ModaMagica/introduccion/instalacion-9c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-introduccion-instalacion-6-f-2-890"
+  },
+  "/ModaMagica/-5c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moda-magica-86-f-32e"
+  }
+}

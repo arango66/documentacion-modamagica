@@ -1,0 +1,112 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ModaMagica/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ModaMagica/",
+          "mainDocId": "introduccion/overview",
+          "docs": [
+            {
+              "id": "backend/autenticacion",
+              "path": "/ModaMagica/backend/autenticacion",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/categorias",
+              "path": "/ModaMagica/backend/categorias",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/descuentos",
+              "path": "/ModaMagica/backend/descuentos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/overview",
+              "path": "/ModaMagica/backend/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/pedidos",
+              "path": "/ModaMagica/backend/pedidos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/productos",
+              "path": "/ModaMagica/backend/productos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/usuarios",
+              "path": "/ModaMagica/backend/usuarios",
+              "sidebar": "docs"
+            },
+            {
+              "id": "base-datos/index",
+              "path": "/ModaMagica/base-datos/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "despliegue/index",
+              "path": "/ModaMagica/despliegue/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/admin",
+              "path": "/ModaMagica/frontend/admin",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/index",
+              "path": "/ModaMagica/frontend/"
+            },
+            {
+              "id": "frontend/layout",
+              "path": "/ModaMagica/frontend/layout",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/overview",
+              "path": "/ModaMagica/frontend/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/tienda",
+              "path": "/ModaMagica/frontend/tienda",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduccion/estructura",
+              "path": "/ModaMagica/introduccion/estructura",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduccion/instalacion",
+              "path": "/ModaMagica/introduccion/instalacion",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduccion/overview",
+              "path": "/ModaMagica/",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/ModaMagica/",
+                "label": "introduccion/overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
