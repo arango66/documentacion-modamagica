@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
   future: { v4: true },
   url: 'https://santialogiraldorodriguez.github.io',
-  baseUrl: '/ModaMagica/',
+  baseUrl: '/',
   organizationName: 'SantiagoGiraldoRodriguez',
   projectName: 'ModaMagica',
   onBrokenLinks: 'warn',
